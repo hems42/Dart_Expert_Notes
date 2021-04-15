@@ -28,7 +28,7 @@
 ///
 /// /// ```
 /// şeklinde olduğu gibi...
-class deneme {
+class Comments {
 
 /*
   yorum satırları  uygulamaların okunurluğu anlaşılırlığı açısından vazgeçilmezdir,
