@@ -1,6 +1,15 @@
 
-void main ()
+
+
+
+
+void  main ()
 {
+
+
+
+
+
 num g =5;
 }
 
@@ -14,7 +23,7 @@ class dd{
    static var _b=0;
    dynamic  _c=0;
 
-   void arttir()
+   void artier()
    {
       _a++;
       _b++;

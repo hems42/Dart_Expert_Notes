@@ -37,7 +37,8 @@ class Comments {
 
 
 
-// Dart tek satır  yorumlarıları destekliyor.. çift sılaş ile  bunu belirtiyoruz .. tek satırlık yorum yani bu satır çift sılaştan başlayıp satır sonuna kadar derlemeyip göz ardı edilecektir...
+// Dart tek satır  yorumlarıları destekliyor.. çift sılaş ile  bunu belirtiyoruz ..
+//tek satırlık yorum yani bu satır çift sılaştan başlayıp satır sonuna kadar derlemeyip göz ardı edilecektir...
 
 
 
@@ -66,7 +67,8 @@ class Comments {
 
 
    // Yorum satırları dökümantasyonlar içinde kullanışlı olabilirler bu sebeble dökümantasyon kullanımı da var
-   // Şöyle ki  nesne oluşturup kullnaıdığımız yerlerde fare imleci ile üstüne geldiğimiz de varsa sınıf yada nesne ile ilgili açıklamları açar bize büyük bir popup  kullanarak işte
+   // Şöyle ki  nesne oluşturup kullnaıdığımız yerlerde fare imleci ile üstüne geldiğimiz de
+   //varsa sınıf yada nesne ile ilgili açıklamları açar bize büyük bir popup  kullanarak işte
    // o açıklamaları  "///" üç yan sılaş ile bilidiriyoruz ide ye ve de derleyiciye....
 
 

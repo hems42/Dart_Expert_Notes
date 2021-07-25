@@ -4,7 +4,7 @@
 /// değişkenlerin tipleri ve kullanımları hakkında
 ///
 /// notlar içerir...
-class Variables
+ class Variables
 {
   // Dart dilinde ki değişken tipleri ve kullanımları ile ilgili bilgiler verilecektir...
 
